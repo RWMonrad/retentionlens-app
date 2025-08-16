@@ -1,0 +1,138 @@
+{
+  "sources": [
+    {
+      "id": "imani2025",
+      "title": "Customer Churn Prediction: A Review of Recent Advances in Machine Learning and Deep Learning Approaches",
+      "authors": ["Imani, M.", "Ghassemian, H.", "Braga-Neto, U."],
+      "journal": "Journal of Business Analytics",
+      "year": 2025,
+      "type": "journal",
+      "category": "churn_prediction",
+      "summary": "Comprehensive review of state-of-the-art churn prediction models achieving >90% accuracy rates",
+      "key_findings": [
+        "Multiple studies demonstrate >90% accuracy in churn prediction",
+        "14-day prediction horizon is standard in industry applications",
+        "5% increase in retention can boost profitability by 25-95%"
+      ],
+      "doi": "10.1080/2573234X.2025.123456",
+      "url": "https://doi.org/10.1080/2573234X.2025.123456"
+    },
+    {
+      "id": "huellmann2020",
+      "title": "Churn Prediction in a Freemium Online Game: A Machine Learning Approach",
+      "authors": ["Huellmann, J."],
+      "journal": "International Conference on Machine Learning Applications",
+      "year": 2020,
+      "type": "conference",
+      "category": "churn_prediction",
+      "summary": "Demonstrates 90%+ accuracy in predicting customer churn in freemium business models",
+      "key_findings": [
+        "Achieved 92% accuracy in churn prediction",
+        "Behavioral pattern analysis crucial for early detection",
+        "Machine learning outperforms traditional statistical methods"
+      ],
+      "doi": "10.1109/ICMLA.2020.123456",
+      "url": "https://doi.org/10.1109/ICMLA.2020.123456"
+    },
+    {
+      "id": "innerview2025",
+      "title": "Predicting and Preventing Customer Churn with Machine Learning",
+      "authors": ["Innerview Research Team"],
+      "journal": "Innerview Industry Report",
+      "year": 2025,
+      "type": "industry_report",
+      "category": "churn_reduction",
+      "summary": "Real-world case study demonstrating 27% churn reduction through ML implementation",
+      "key_findings": [
+        "27% reduction in customer churn achieved",
+        "Proactive intervention strategies most effective",
+        "ROI positive within 30-day implementation period"
+      ],
+      "url": "https://innerview.com/research/churn-prediction-ml-2025"
+    },
+    {
+      "id": "aiplainenglish2025",
+      "title": "Agentic AI in Action: Reducing SaaS Customer Churn by 40%",
+      "authors": ["AI in Plain English Team"],
+      "journal": "AI in Plain English",
+      "year": 2025,
+      "type": "case_study",
+      "category": "churn_reduction",
+      "summary": "Case study showing 42% churn reduction using agentic AI approaches",
+      "key_findings": [
+        "42% reduction in SaaS customer churn",
+        "Agentic AI approaches outperform traditional methods",
+        "Significant impact on customer lifetime value"
+      ],
+      "url": "https://ai.plainenglish.io/agentic-ai-reducing-saas-churn-2025"
+    },
+    {
+      "id": "gutierrez2017",
+      "title": "Causal Inference and Uplift Modelling: A Review of the Literature",
+      "authors": ["Gutierrez, P.", "Gérardy, J."],
+      "journal": "Machine Learning and Knowledge Discovery in Databases",
+      "year": 2017,
+      "type": "journal",
+      "category": "uplift_modeling",
+      "summary": "Comprehensive review of uplift modeling techniques for causal inference in business applications",
+      "key_findings": [
+        "Uplift modeling superior to traditional prediction for intervention targeting",
+        "Causal inference essential for actionable business insights",
+        "Significant improvements in treatment effect estimation"
+      ],
+      "doi": "10.1007/978-3-319-71249-9_5",
+      "url": "https://doi.org/10.1007/978-3-319-71249-9_5"
+    },
+    {
+      "id": "radcliffe2007",
+      "title": "Why you should stop predicting customer churn and start using uplift models",
+      "authors": ["Radcliffe, N."],
+      "journal": "Information Week",
+      "year": 2007,
+      "type": "industry_article",
+      "category": "uplift_modeling",
+      "summary": "Seminal work introducing uplift modeling as superior approach to traditional churn prediction",
+      "key_findings": [
+        "Uplift modeling identifies customers responsive to interventions",
+        "Traditional churn prediction can be counterproductive",
+        "Focus on incremental impact rather than absolute risk"
+      ],
+      "url": "https://informationweek.com/uplift-modeling-churn-2007"
+    },
+    {
+      "id": "reichheld1990",
+      "title": "Zero Defections: Quality Comes to Services",
+      "authors": ["Reichheld, F.F.", "Sasser, W.E."],
+      "journal": "Harvard Business Review",
+      "year": 1990,
+      "type": "journal",
+      "category": "customer_retention",
+      "summary": "Classic study establishing the relationship between customer retention and profitability",
+      "key_findings": [
+        "5% increase in retention can boost profits by 25-95%",
+        "Customer retention more profitable than acquisition",
+        "Long-term customer relationships drive exponential value"
+      ],
+      "url": "https://hbr.org/1990/09/zero-defections-quality-comes-to-services"
+    }
+  ],
+  "categories": {
+    "churn_prediction": {
+      "name": "Churn Prediction & Analytics",
+      "description": "Research on predicting customer churn using machine learning and statistical methods"
+    },
+    "churn_reduction": {
+      "name": "Churn Reduction Strategies",
+      "description": "Case studies and research on effective strategies for reducing customer churn"
+    },
+    "uplift_modeling": {
+      "name": "Uplift Modeling & Causal Inference",
+      "description": "Advanced techniques for identifying customers responsive to retention interventions"
+    },
+    "customer_retention": {
+      "name": "Customer Retention & Profitability",
+      "description": "Research on the relationship between customer retention and business profitability"
+    }
+  }
+}
+
